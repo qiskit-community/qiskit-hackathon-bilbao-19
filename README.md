@@ -13,10 +13,3 @@ After the project is defined and the team is complete, you can ask a coacher in 
 A Qiskit coach guides and advices the team in its project.
 Also will be your contact point after the hackathon, in case that the project have a continuation.
 The team needs a coach before the final submission at the end of the hackathon.
-
-
-## Hackathon Schedule
-
-
-## Coachers
-
