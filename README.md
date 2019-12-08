@@ -6,7 +6,7 @@ Check the [`preparation&installation`](preparation%26installation.md) note for t
 
 ## The project is ready. Let's hack!
 
-After the project is defined and the team is complete, you can ask a coacher in the channel `#qiskit-hackathon-bilbao` (qiskit.slack.com) to add the label `group ready`. This should happen before the group formation stage is finished. From this point on, you can use the issue to communicate progress as additional comments.
+After the project is defined and the team is complete, you can ask a coacher in the channel `#qiskit-hackathon-bilbao-19` (qiskit.slack.com) to add the label `group ready`. This should happen before the group formation stage is finished. From this point on, you can use the issue to communicate progress as additional comments.
 
 ## The team needs a coach
 
